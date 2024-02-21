@@ -1,0 +1,11 @@
+sno	usr_name	city
+1	gowtham	chennai
+2	ram	delhi
+3	alex	mumbai
+4	rahul	delhi
+5	arun	goa
+6	nila	chennai
+7	nandini	chennai
+8	anita	delhi
+9	saravana 	chennai
+10	jaya	delhi
